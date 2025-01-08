@@ -1,0 +1,16 @@
+{
+  "name": "discord-callup-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for call-up system",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=16.9.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.0.3"
+  }
+}
